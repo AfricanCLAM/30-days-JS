@@ -1,7 +1,0 @@
-always double check
-1.class/id
-2.function name
-3.spelling
-4.assigned parameter
-
-JAVASCRIPT IS CASE SENSITIVE!!!!!!!!
