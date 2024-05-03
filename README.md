@@ -8,3 +8,4 @@ day 5 - flex panel gallery
 day 6 - AJAX type ahead
 day 7 - array exercise 2
 day 8 - HTML5 canvas
+day 9 - dev tools learning
