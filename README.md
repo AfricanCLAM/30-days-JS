@@ -10,3 +10,4 @@ day 07 - array exercise 2
 day 08 - HTML5 canvas
 day 09 - dev tools learning
 day 10 - Hold shift to check multiple checkboxes 
+day 11 - custom video player
