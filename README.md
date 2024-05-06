@@ -11,3 +11,5 @@ day 08 - HTML5 canvas
 day 09 - dev tools learning
 day 10 - Hold shift to check multiple checkboxes 
 day 11 - custom video player
+day 12 - key sequence detector
+day 13 - slide in on scroll
