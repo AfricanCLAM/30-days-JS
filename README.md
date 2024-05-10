@@ -14,3 +14,4 @@ day 11 - custom video player
 day 12 - key sequence detector
 day 13 - slide in on scroll
 day 14 - JS reference and copying
+day 15 - local Storage
