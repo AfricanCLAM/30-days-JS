@@ -17,3 +17,4 @@ day 14 - JS reference and copying
 day 15 - local Storage
 day 16 - mouse move shadow
 day 17 - sort without articles
+day 18 - adding up time with reduce
