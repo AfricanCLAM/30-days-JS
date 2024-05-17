@@ -21,4 +21,5 @@ day 18 - adding up time with reduce
 day 19 - webcam Fun
 day 20 - speech recognition 
 day 21 - Geolocation
-day 22 - Follow along link 
+day 22 - Follow along link
+day 23 - speech synthesis
