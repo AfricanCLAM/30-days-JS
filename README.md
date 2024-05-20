@@ -25,3 +25,4 @@ day 22 - Follow along link
 day 23 - speech synthesis
 day 24 - sticky nav
 day 25 - event propagation
+day 26 - stripe follow along nav
