@@ -28,3 +28,4 @@ day 25 - event propagation
 day 26 - stripe follow along nav
 day 27 - click and drag scroll
 day 28 - video speed controller
+day 29 - countdown timer
